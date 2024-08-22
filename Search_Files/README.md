@@ -1,4 +1,4 @@
-# List Files
+# Search Files
 # What is this?
 A tool to search for a file in a directory
 
