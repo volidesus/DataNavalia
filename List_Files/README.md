@@ -1,4 +1,4 @@
-# List Duplicates
+# List Files
 # What is this?
 A tool to list all files within a directory
 
