@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\LENOVO\OneDrive\Documents\Git\fileTools\List_Duplicates\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\LENOVO\OneDrive\Documents\Git\fileTools\List_Duplicates\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1AE086E0-8552-34BB-A123-7663A8E0F9BD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

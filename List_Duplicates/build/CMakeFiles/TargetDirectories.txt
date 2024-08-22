@@ -1,0 +1,3 @@
+C:/Users/LENOVO/OneDrive/Documents/Git/fileTools/List_Duplicates/build/CMakeFiles/listDuplicates.dir
+C:/Users/LENOVO/OneDrive/Documents/Git/fileTools/List_Duplicates/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/LENOVO/OneDrive/Documents/Git/fileTools/List_Duplicates/build/CMakeFiles/ZERO_CHECK.dir
