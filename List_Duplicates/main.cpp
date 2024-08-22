@@ -9,7 +9,7 @@ namespace fs = std::filesystem;
 
 const std::string RED = "\033[38;2;241;107;22m";
 const std::string BLUE = "\033[38;2;13;152;185m";
-const std::string DARKBLUE = "\033[38;2;35;57;93m";
+const std::string DARKBLUE = "\033[38;2;115;194;251m";
 const std::string RESET = "\033[0m";
 
 struct Item {
