@@ -1,6 +1,6 @@
 # File Tools
 # What is this?
-Tools to interact with files, made using C++ 17.
+Tools to search, and interact with files, made using C++ 17.
 
 # Features
 - Error handling
