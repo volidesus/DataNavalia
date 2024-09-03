@@ -1,0 +1,184 @@
+﻿  Building Custom Rule C:/Users/LENOVO/Documents/cppPortofolio/fileEncrypt/CMakeLists.txt
+  main.cpp
+cryptlib.lib(cryptlib.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(cryptlib.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(allocate.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(allocate.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(modes.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(modes.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(rijndael.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(rijndael.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(filters.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(filters.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(scrypt.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(scrypt.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(integer.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(integer.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(misc.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(misc.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(queue.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(queue.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(algparam.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(algparam.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(fips140.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(fips140.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(pch.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(pch.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(cpu.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(cpu.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(rijndael_simd.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(rijndael_simd.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(rdtables.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(rdtables.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(mqueue.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(mqueue.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(hrtimer.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(hrtimer.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(hmac.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(hmac.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(salsa.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(salsa.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(iterhash.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(iterhash.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(sha.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(sha.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(dll.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(dll.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(nbtheory.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(nbtheory.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(asn.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(asn.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(pubkey.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(pubkey.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(sse_simd.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(sse_simd.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(sha_simd.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(sha_simd.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(gfpcrypt.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(gfpcrypt.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(gf2n.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(gf2n.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(ec2n.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(ec2n.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(ecp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(ecp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(basecode.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(basecode.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(hex.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(hex.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(rng.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(rng.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(osrng.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(osrng.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(primetab.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(primetab.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(sosemanuk.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(sosemanuk.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(randpool.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(randpool.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(gf2n_simd.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(gf2n_simd.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+cryptlib.lib(serpent.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+cryptlib.lib(serpent.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: virtual __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::~basic_streambuf<char,struct std::char_traits<char> >(void)" (??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAA@XZ) already defined in cryptlib.lib(scrypt.obj)
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "protected: virtual __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::xsgetn(char *,__int64)" (?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEAD_J@Z) already defined in cryptlib.lib(scrypt.obj)
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "protected: virtual __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::xsputn(char const *,__int64)" (?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEBD_J@Z) already defined in cryptlib.lib(scrypt.obj)
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: virtual __cdecl std::basic_ios<char,struct std::char_traits<char> >::~basic_ios<char,struct std::char_traits<char> >(void)" (??1?$basic_ios@DU?$char_traits@D@std@@@std@@UEAA@XZ) already defined in cryptlib.lib(scrypt.obj)
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: virtual __cdecl std::basic_ostream<char,struct std::char_traits<char> >::~basic_ostream<char,struct std::char_traits<char> >(void)" (??1?$basic_ostream@DU?$char_traits@D@std@@@std@@UEAA@XZ) already defined in cryptlib.lib(scrypt.obj)
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: void __cdecl std::basic_ostream<char,struct std::char_traits<char> >::_Osfx(void)" (?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ) already defined in cryptlib.lib(scrypt.obj)
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(int)" (??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@H@Z) already defined in cryptlib.lib(scrypt.obj)
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::flush(void)" (?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ) already defined in cryptlib.lib(scrypt.obj)
+libcpmt.lib(locale0.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+libcpmt.lib(locale0.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+libcpmt.lib(locale0.obj) : error LNK2005: "void __cdecl std::_Facet_Register(class std::_Facet_base *)" (?_Facet_Register@std@@YAXPEAV_Facet_base@1@@Z) already defined in msvcprtd.lib(locale0_implib.obj)
+libcpmt.lib(locale0.obj) : error LNK2005: "private: static class std::locale::_Locimp * __cdecl std::locale::_Getgloballocale(void)" (?_Getgloballocale@locale@std@@CAPEAV_Locimp@12@XZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(locale0.obj) : error LNK2005: "private: static class std::locale::_Locimp * __cdecl std::locale::_Init(bool)" (?_Init@locale@std@@CAPEAV_Locimp@12@_N@Z) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(locale0.obj) : error LNK2005: "public: static void __cdecl std::_Locinfo::_Locinfo_ctor(class std::_Locinfo *,char const *)" (?_Locinfo_ctor@_Locinfo@std@@SAXPEAV12@PEBD@Z) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(locale0.obj) : error LNK2005: "public: static void __cdecl std::_Locinfo::_Locinfo_dtor(class std::_Locinfo *)" (?_Locinfo_dtor@_Locinfo@std@@SAXPEAV12@@Z) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(locale.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+libcpmt.lib(locale.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+libcpmt.lib(locale.obj) : error LNK2005: "public: __cdecl std::locale::id::operator unsigned __int64(void)" (??Bid@locale@std@@QEAA_KXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(locale.obj) : error LNK2005: "public: static unsigned __int64 __cdecl std::codecvt<char,char,struct _Mbstatet>::_Getcat(class std::locale::facet const * *,class std::locale const *)" (?_Getcat@?$codecvt@DDU_Mbstatet@@@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(locale.obj) : error LNK2005: "public: struct _Cvtvec __cdecl std::_Locinfo::_Getcvt(void)const " (?_Getcvt@_Locinfo@std@@QEBA?AU_Cvtvec@@XZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(locale.obj) : error LNK2005: "protected: __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::_Gnavail(void)const " (?_Gnavail@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBA_JXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(locale.obj) : error LNK2005: "protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::_Gninc(void)" (?_Gninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAPEADXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(locale.obj) : error LNK2005: "protected: __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::_Pnavail(void)const " (?_Pnavail@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBA_JXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(locale.obj) : error LNK2005: "protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::_Pninc(void)" (?_Pninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAPEADXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(locale.obj) : error LNK2005: "public: int __cdecl std::ios_base::flags(void)const " (?flags@ios_base@std@@QEBAHXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(locale.obj) : error LNK2005: "protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::gptr(void)const " (?gptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(locale.obj) : error LNK2005: "public: int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputc(char)" (?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(locale.obj) : error LNK2005: "public: __int64 __cdecl std::ios_base::width(__int64)" (?width@ios_base@std@@QEAA_J_J@Z) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(locale.obj) : error LNK2005: "public: __int64 __cdecl std::ios_base::width(void)const " (?width@ios_base@std@@QEBA_JXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(iosptrs.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+libcpmt.lib(iosptrs.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+libcpmt.lib(wlocale.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+libcpmt.lib(wlocale.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+libcpmt.lib(wlocale.obj) : error LNK2005: "public: __cdecl std::locale::id::operator unsigned __int64(void)" (??Bid@locale@std@@QEAA_KXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(wlocale.obj) : error LNK2005: "public: struct _Cvtvec __cdecl std::_Locinfo::_Getcvt(void)const " (?_Getcvt@_Locinfo@std@@QEBA?AU_Cvtvec@@XZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(wlocale.obj) : error LNK2005: "public: char const * __cdecl std::_Locinfo::_Getdays(void)const " (?_Getdays@_Locinfo@std@@QEBAPEBDXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(wlocale.obj) : error LNK2005: "public: char const * __cdecl std::_Locinfo::_Getmonths(void)const " (?_Getmonths@_Locinfo@std@@QEBAPEBDXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(wlocale.obj) : error LNK2005: "public: unsigned short const * __cdecl std::_Locinfo::_W_Getdays(void)const " (?_W_Getdays@_Locinfo@std@@QEBAPEBGXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(wlocale.obj) : error LNK2005: "public: unsigned short const * __cdecl std::_Locinfo::_W_Getmonths(void)const " (?_W_Getmonths@_Locinfo@std@@QEBAPEBGXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(wlocale.obj) : error LNK2005: "public: int __cdecl std::ios_base::flags(void)const " (?flags@ios_base@std@@QEBAHXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(wlocale.obj) : error LNK2005: "public: __int64 __cdecl std::ios_base::width(__int64)" (?width@ios_base@std@@QEAA_J_J@Z) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(wlocale.obj) : error LNK2005: "public: __int64 __cdecl std::ios_base::width(void)const " (?width@ios_base@std@@QEBA_JXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(xlocale.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+libcpmt.lib(xlocale.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+libcpmt.lib(xlocale.obj) : error LNK2005: "public: __cdecl std::locale::id::operator unsigned __int64(void)" (??Bid@locale@std@@QEAA_KXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(xlocale.obj) : error LNK2005: "public: struct _Cvtvec __cdecl std::_Locinfo::_Getcvt(void)const " (?_Getcvt@_Locinfo@std@@QEBA?AU_Cvtvec@@XZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(xlocale.obj) : error LNK2005: "public: char const * __cdecl std::_Locinfo::_Getdays(void)const " (?_Getdays@_Locinfo@std@@QEBAPEBDXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(xlocale.obj) : error LNK2005: "public: char const * __cdecl std::_Locinfo::_Getmonths(void)const " (?_Getmonths@_Locinfo@std@@QEBAPEBDXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(xlocale.obj) : error LNK2005: "protected: __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::_Gnavail(void)const " (?_Gnavail@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBA_JXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(xlocale.obj) : error LNK2005: "protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::_Gninc(void)" (?_Gninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAPEADXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(xlocale.obj) : error LNK2005: "protected: __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::_Pnavail(void)const " (?_Pnavail@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBA_JXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(xlocale.obj) : error LNK2005: "protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::_Pninc(void)" (?_Pninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAPEADXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(xlocale.obj) : error LNK2005: "public: unsigned short const * __cdecl std::_Locinfo::_W_Getdays(void)const " (?_W_Getdays@_Locinfo@std@@QEBAPEBGXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(xlocale.obj) : error LNK2005: "public: unsigned short const * __cdecl std::_Locinfo::_W_Getmonths(void)const " (?_W_Getmonths@_Locinfo@std@@QEBAPEBGXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(xlocale.obj) : error LNK2005: "public: int __cdecl std::ios_base::flags(void)const " (?flags@ios_base@std@@QEBAHXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(xlocale.obj) : error LNK2005: "protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::gptr(void)const " (?gptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(xlocale.obj) : error LNK2005: "public: int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputc(char)" (?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(xlocale.obj) : error LNK2005: "public: __int64 __cdecl std::ios_base::width(__int64)" (?width@ios_base@std@@QEAA_J_J@Z) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(xlocale.obj) : error LNK2005: "public: __int64 __cdecl std::ios_base::width(void)const " (?width@ios_base@std@@QEBA_JXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(xstol.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+libcpmt.lib(xstol.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+libcpmt.lib(xstoul.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+libcpmt.lib(xstoul.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+libcpmt.lib(xstoll.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+libcpmt.lib(xstoll.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+libcpmt.lib(xstoull.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+libcpmt.lib(xstoull.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+libcpmt.lib(xlock.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+libcpmt.lib(xlock.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+libcpmt.lib(xlock.obj) : error LNK2005: "public: __cdecl std::_Lockit::_Lockit(int)" (??0_Lockit@std@@QEAA@H@Z) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(xlock.obj) : error LNK2005: "public: __cdecl std::_Lockit::~_Lockit(void)" (??1_Lockit@std@@QEAA@XZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(xstrcoll.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+libcpmt.lib(xstrcoll.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+libcpmt.lib(xdateord.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+libcpmt.lib(xdateord.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+libcpmt.lib(xwctomb.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+libcpmt.lib(xwctomb.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+libcpmt.lib(xwctomb.obj) : error LNK2005: _Getcvt already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(xwcscoll.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+libcpmt.lib(xwcscoll.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+libcpmt.lib(xwcsxfrm.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+libcpmt.lib(xwcsxfrm.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+libcpmt.lib(xgetwctype.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+libcpmt.lib(xgetwctype.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+libcpmt.lib(xtowlower.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+libcpmt.lib(xtowlower.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+libcpmt.lib(xtowupper.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+libcpmt.lib(xtowupper.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+libcpmt.lib(xstrxfrm.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+libcpmt.lib(xstrxfrm.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+libcpmt.lib(xmtx.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+libcpmt.lib(xmtx.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+libcpmt.lib(StlCompareStringA.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+libcpmt.lib(StlCompareStringA.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+libcpmt.lib(StlCompareStringW.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+libcpmt.lib(StlCompareStringW.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+libcpmt.lib(StlLCMapStringW.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+libcpmt.lib(StlLCMapStringW.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+libcpmt.lib(StlLCMapStringA.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+libcpmt.lib(StlLCMapStringA.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+C:\Users\LENOVO\Documents\cppPortofolio\fileEncrypt\Debug\fileEncrypt.exe : fatal error LNK1169: one or more multiply defined symbols found
